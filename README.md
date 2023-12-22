@@ -54,6 +54,10 @@ index.html
     <button onclick="appendToDisplay('9')">9</button>
     <button onclick="appendToDisplay('*')">*</button>
     <button onclick="appendToDisplay('0')">0</button>
+    <button onclick="appendToDisplay('%')">%</button>
+    <button onclick="appendToDisplay('^')">^</button>
+    <button onclick="appendToDisplay('log')">log</button>
+    <button onclick="appendToDisplay('1/x')">1/x</button>
     <button onclick="clearDisplay()">C</button>
     <button onclick="calculate()">=</button>
     <button onclick="appendToDisplay('/')">/</button>
@@ -136,8 +140,7 @@ function calculate() {
 }
 ```
 ## OUTPUT:
-![OUTPUT](<Screenshot (68).png>)
-![OUTPUT](<Screenshot (69).png>)
-
+![OUTPUT](<Screenshot 2023-12-22 135420.png>)
+![OUTPUT](<Screenshot (74).png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
